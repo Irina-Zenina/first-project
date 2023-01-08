@@ -1,0 +1,10 @@
+.techniques {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  width: 80%;
+}

@@ -1,0 +1,13 @@
+.two-columns {
+  padding: 0;
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 100px;
+  width: 80%;
+}
